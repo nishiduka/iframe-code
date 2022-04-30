@@ -7,12 +7,6 @@ This project was made using Javascript vanilla and no external frameworks or lib
 
 The only lib was used is `serve`, just to helps to see the code runing. If you want, you can use another http server.
 
-<div style="display: flex">
-  <img src="https://github.com/nishiduka/iframe-code/blob/master/documentation/html5.svg" alt="HTML Icon" width="100"/>
-  <img src="https://github.com/nishiduka/iframe-code/blob/master/documentation/css3.svg" alt="CSS 3 Icon" width="100"/>
-  <img src="https://github.com/nishiduka/iframe-code/blob/master/documentation/js.svg" alt="Javascript Icon" width="100"/>
-</div>
-
 ### Runing project using serve
 ```
   yarn install
