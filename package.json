@@ -1,0 +1,15 @@
+{
+  "name": "iframe-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nishiduka/iframe-code.git",
+  "author": "Thomas Nishiduka <thomas.nishiduka@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^13.0.2"
+  },
+  "scripts": {
+    "start": "serve ."
+  }
+}
